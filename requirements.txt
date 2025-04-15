@@ -1,0 +1,10 @@
+pandas
+matplotlib
+seaborn
+imbalanced-learn
+httpx==0.23.0
+httpcore==0.15.0
+numpy==1.26.4
+joblib==1.4.0
+gradio==3.10.1
+scikit-learn==1.6.1
