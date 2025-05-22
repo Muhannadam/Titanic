@@ -64,13 +64,3 @@ This project is a end-to-end machine learning pipeline that predicts the surviva
 ## ✅ Conclusion
 
 This project demonstrates a full ML workflow and public deployment.
-
----
-
-### 👥 Team Members
-
-| Name                    | Student ID |
-|-------------------------|------------|
-| Mohammed Talal Mursi    | 2503652    |
-| Ghaith Omar Alhumaidi   | 2503650    |
-| Muhannad Almuntashiri   | 2503649    |
